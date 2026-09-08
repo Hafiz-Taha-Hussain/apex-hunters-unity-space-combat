@@ -30,3 +30,8 @@ Apex Hunters was built as a Game Development course project, combining flight co
 2. Open the project folder in **Unity Hub** (requires Unity 6)
 3. Let Unity import assets and resolve packages
 4. Open the main scene and press Play
+
+## Author
+
+**Hafiz Taha Hussain**
+Student, GIFT University
